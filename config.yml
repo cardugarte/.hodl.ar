@@ -22,9 +22,9 @@ blocks:
   # Estos bloques los podes editar cambiando SOLO el texto que está en blanco
   # Sacale 
 
-  - title: Instagram
-    icon: instagram
-    url: https://www.instagram.com/cardugarte
+- title: Instagram
+  icon: instagram
+  url: https://www.instagram.com/cardugarte
 
 - title: Twitter
   icon: twitter
