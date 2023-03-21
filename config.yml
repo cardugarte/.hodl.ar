@@ -28,19 +28,19 @@ blocks:
 
 - title: Twitter
   icon: twitter
-  url: https://twitter.com/cardugarte
+  url: https://twitter.com/cardugarte/
     
 - title: LinkedIn # Este es el nombre del botón
   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
-  url: https://linkedin.com/in/cardugarte # Link a donde redireccionará al hacer click
+  url: https://linkedin.com/in/cardugarte/ # Link a donde redireccionará al hacer click
 
 - title: Github
   icon: github
-  url: https://github.com/cardugarte
+  url: https://github.com/cardugarte/
 
 - title: Sitio Web
   icon: url
-  url: https://www.carlosdugarte.com
+  url: https://www.carlosdugarte.com/
 
 # - title: Telegram
 #   icon: telegram
